@@ -1,0 +1,8 @@
+https://github.com/xlwings/officejs-helloworld
+https://github.com/xlwings/xlwings-officejs-quickstart
+https://github.com/OfficeDev/script-lab
+https://appsource.microsoft.com/en-US/product/office/WA104380862?exp=ubp8
+
+npx kill-port 3000
+npx webpack server --mode=development
+
